@@ -14,7 +14,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  build:
+  gradle_build:
 
     runs-on: ubuntu-latest
     permissions:
