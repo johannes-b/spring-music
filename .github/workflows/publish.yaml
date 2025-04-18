@@ -16,3 +16,4 @@ jobs:
     steps:
     - name: Upload build artifact
       uses: actions/upload-artifact@v4.6.2
+      path: spring-music-1.0.jar
